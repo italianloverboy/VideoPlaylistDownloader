@@ -1,6 +1,6 @@
 # VPD - Video Playlist Downloader
 
-A simple, user-friendly graphical interface (GUI) for the powerful `yt-dlp` command-line tool. Built to make video downloading easy for everyone.
+A simple, user-friendly graphical interface (GUI) for the powerful `yt-dlp` command-line tool. Built to make video and playlist bulk downloading easy for everyone that is sick of shareware freemium BS.
 
 ![Screenshot of VPD](Screenshot.png)
 
