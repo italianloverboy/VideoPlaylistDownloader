@@ -30,4 +30,4 @@ This GUI is released under the **MIT License**. See the `LICENSE` file for detai
 The application uses **FFmpeg** (licensed under the GPL) for processing media files.
 
 **Disclaimer:** This is an unofficial project and is not affiliated with the `yt-dlp` team.
-Passo 2: Pubblica l'Applicazione (VPD.exe)
+
