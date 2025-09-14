@@ -2,7 +2,7 @@
 
 A simple, user-friendly graphical interface (GUI) for the powerful `yt-dlp` command-line tool. Built to make video downloading easy for everyone.
 
-![Screenshot of VPD](screenshot.png)
+![Screenshot of VPD](Screenshot.png)
 
 
 ## Features
